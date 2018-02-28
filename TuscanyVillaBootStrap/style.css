@@ -34,3 +34,76 @@ div.col.NavagationColumn {
     letter-spacing: 2px;
     opacity:.9;
 }
+
+.row.SubHeaderBar{
+    text-align:center;
+    color:snow;
+    background-color:darkslategray;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+.col-5.LocationsColOdd {
+    background-image: url('images/italy-mountain-villa.jpeg');
+    background-size: cover;
+    height: 270px;
+}
+
+.row.LocationsRowOdd {
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-left: 30px;
+    height: 300px;
+}
+
+p.LocationHeader{
+    font-size:20px;
+}
+
+.col-7.LocationsColOdd {
+    padding-top:25px;
+    line-height:17px;
+}
+
+button.btn{
+    background-color:darkslategray;
+    color:snow;
+}
+
+.col-5.LocationsColOdd2 {
+    background-image: url('images/tuscany-grape-field-nature-51947.jpeg');
+    background-size: cover;
+    height: 270px;
+}
+
+.col-7.LocationsColOdd2 {
+    padding-top: 25px;
+    line-height: 17px;
+}
+
+.row.LocationsRowOdd2 {
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-left: 30px;
+    height: 300px;
+}
+
+.row.LocationsRowEven {
+    background-color:darkslategray;
+    color:snow;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-left: 30px;
+    height: 300px;
+}
+
+#EvenButton {
+    background-color: snow;
+    color: darkslategray;
+}
+
+.col-5.LocationsColEven {
+    background-image: url('images/modern-villa.jpeg');
+    background-size: cover;
+    height: 270px;
+}
