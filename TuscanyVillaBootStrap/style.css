@@ -1,27 +1,36 @@
-﻿bg-dark{
-    background-color:darkslategray!important;
+﻿bg-dark {
+    background-color: darkslategray !important;
 }
 
-div.col.NavagationColumn{
-    padding:0px;
+div.col.NavagationColumn {
+    padding: 0px;
 }
 
-.navbar-dark .navbar-brand{    
-    color:snow!important;
-    letter-spacing:2px;
+.navbar-dark .navbar-brand {
+    color: snow !important;
+    letter-spacing: 2px;
 }
 
-.nav-link{
-    color:snow!important;
-    letter-spacing:2px;
-    margin-right:10px;
+.nav-link {
+    color: snow !important;
+    letter-spacing: 2px;
+    margin-right: 10px;
 }
 
 .col-9.MainCol {
-    height:300px;
-    background: url('images/tuscany-villas-sant-anna.jpg')no-repeat center center;    
+    height: 300px;
+    background: url('images/tuscany-villas-sant-anna.jpg')no-repeat center center;
 }
 
 .col-3.MainCol {
-    background: url('images/Versilia.jpg')no-repeat center center;    
+    background: url('images/Versilia.jpg')no-repeat center center;
+}
+
+#JumboMain {
+    background: none;
+    text-align: center;
+    color: snow;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 2px;
+    opacity:.9;
 }
